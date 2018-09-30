@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dispose_pelda1", "dispose_p
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dispose_minta", "dispose_minta\dispose_minta.csproj", "{EE7A4E7D-91AE-4F0E-BA18-0A2D9CB30884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface_minta", "interface\interface_minta.csproj", "{F817A916-258E-4A08-A087-979B66C50A6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EE7A4E7D-91AE-4F0E-BA18-0A2D9CB30884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7A4E7D-91AE-4F0E-BA18-0A2D9CB30884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7A4E7D-91AE-4F0E-BA18-0A2D9CB30884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F817A916-258E-4A08-A087-979B66C50A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F817A916-258E-4A08-A087-979B66C50A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F817A916-258E-4A08-A087-979B66C50A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F817A916-258E-4A08-A087-979B66C50A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
