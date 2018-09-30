@@ -32,6 +32,8 @@ namespace korositas
             }
             Console.WriteLine();
             Console.WriteLine(GC.GetTotalMemory(false));
+            GC.Collect();
+            Console.WriteLine(GC.GetTotalMemory(false));
 
             Console.ReadLine();
         }
