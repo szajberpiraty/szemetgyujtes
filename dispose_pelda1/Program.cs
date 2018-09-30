@@ -22,6 +22,9 @@ namespace dispose_pelda1
                 //Van véglegesítője, ezért nagyon könnyen elfogy a memória
                 //using( var bitmap = new Bitmap(1280,1024)) {} //-Így nem lesz memória probléma
                 Console.WriteLine(GC.GetTotalMemory(false));
+
+                
+
                 i++;
             }
         }
